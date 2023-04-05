@@ -1,15 +1,5 @@
 /* AIRBNB Project
-    Designed to analyze in SQL and Tableau to be able to answer at least the following:
-		1. Which city has the highest average daily rate (ADR) for Airbnb rentals? Create a Tableau visualization that shows the top 10 cities 
-		with the highest ADR and their average rating score, along with a bar chart that shows the distribution of ADR across all cities in the dataset.
-
-		2. What are the most common amenities that Airbnb hosts offer in different cities? Write an SQL query that lists the top 5 amenities offered in 
-		each city, along with the percentage of listings that offer each amenity. Create a Tableau visualization that shows the top 10 amenities offered 
-		across all cities and their frequency of occurrence.
-
-		3. How does the availability of Airbnb rentals change over time in different cities? Write an SQL query that calculates the number of available listings 
-		for each month in each city, and create a Tableau line chart that shows the trend in availability over time for the top 5 cities in the dataset. 
-		You could also include a filter that allows users to select a city and see the availability trend for that city specifically.
+    Designed to analyze in SQL and create a visualization on Power BI
 */
 
 /* Analyze and prepare the data
